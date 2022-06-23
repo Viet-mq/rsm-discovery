@@ -1,5 +1,5 @@
 server:
-  port: ${EUREKA_PORT:30000}
+  port: ${EUREKA_PORT:30300}
 
 spring:
   application:
